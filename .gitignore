@@ -1,0 +1,5 @@
+.venv-py311
+data
+models
+plots
+.env
